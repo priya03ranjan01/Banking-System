@@ -21,6 +21,6 @@ Technologies used
 ## Links
 
 <li><a href= "https://priya-sparks.000webhostapp.com/">Website</a>
-<li><a href= " ">LinkedIn</a>
+<li><a href="https://www.linkedin.com/in/priya-ranjan-333091202/detail/recent-activity/shares/">LinkedIn</a>
 <li><a
-href= "https://youtu.be/zreBxXMxC0A">YouTube</a>
+href= "https://youtu.be/_s-tuwgEYTU">YouTube</a>
