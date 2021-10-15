@@ -2,7 +2,7 @@
 # Basic-Banking-System
 
 <b>Sparks Foundation </b><br>
-<b> GRIPOCT'21 </b><br>
+<b> GRIPOCTOBER21 </b><br>
 Web Development Internship<br>
 Task 1 : Basic Banking System
 
