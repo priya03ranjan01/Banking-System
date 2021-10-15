@@ -6,10 +6,10 @@
 Web Development Internship<br>
 Task 1 : Basic Banking System
 
-A Dynamic Website used to transfer money between multiple users.
+A Dynamic Website used to transfer money between many users.
 
 Technologies used 
-- Front-end : HTML, CSS,  Javascript  & Bootstrap 
+- Front-end : HTML, CSS,  JavaScript  & Bootstrap 
 - Back-end : PHP
 - Database : MySQL
 - IDE : Visual Studio Code
