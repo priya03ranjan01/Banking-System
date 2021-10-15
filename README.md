@@ -16,7 +16,7 @@ Technologies used
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/priya03ranjan01/Basic-Banking-System/blob/main/Screenshot%20grip.png)
 
 ## Links
 
